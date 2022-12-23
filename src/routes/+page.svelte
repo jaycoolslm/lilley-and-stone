@@ -14,7 +14,7 @@
 
 <main>
 	<Hero
-		image={{ src: building_2, alt: 'Saving Lilley and Stone' }}
+		image={{ src: ariel, alt: 'Saving Lilley and Stone' }}
 		header="Saving Lilley and Stone"
 	/>
 
