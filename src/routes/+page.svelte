@@ -13,10 +13,6 @@
 </script>
 
 <main>
-	<Hero
-		image={{ src: ariel, alt: 'Saving Lilley and Stone' }}
-		header="Saving Lilley and Stone"
-	/>
 
 	<TextImage image={{ src: pm_2, alt: 'Saving Lilly and Stone' }}>
 		<h1 style="margin-bottom: 1rem">We deeply care about our town</h1>
