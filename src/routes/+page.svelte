@@ -16,7 +16,7 @@
 <main>
 
 
-	<TextImage image={{ src: pm_2, alt: 'Saving Lilly and Stone' }}>
+	<!-- <TextImage image={{ src: pm_2, alt: 'Saving Lilly and Stone' }}> -->
 		<h1 style="margin-bottom: 1rem">We deeply care about our town</h1>
 		<ul style="margin-bottom: 1rem">
 			<li>History</li>
