@@ -5,7 +5,6 @@
 	import TextImage from '$lib/components/image/TextImage.svelte';
 	import LargeTextFromLeft from '$lib/components/text/LargeTextFromLeft.svelte';
 	import List from '$lib/components/List/index.svelte';
-
 	// images
 	import pm_2 from '$lib/assets/meeting/pm_2.jpg';
 	import building_2 from '$lib/assets/school/building_2.jpg';
@@ -14,15 +13,12 @@
 </script>
 
 <main>
-	
-	
 	<Hero
-		image={{ src: ariel, alt: 'Saving Lilley and Stone' }}
+		image={{ src: building_2, alt: 'Saving Lilley and Stone' }}
 		header="Saving Lilley and Stone"
 	/>
 
-
-	<!-- <TextImage image={{ src: pm_2, alt: 'Saving Lilly and Stone' }}> -->
+	<TextImage image={{ src: pm_2, alt: 'Saving Lilly and Stone' }}>
 		<h1 style="margin-bottom: 1rem">We deeply care about our town</h1>
 		<ul style="margin-bottom: 1rem">
 			<li>History</li>
@@ -103,7 +99,6 @@
 			}
 		}
 	}
-
 	@keyframes pulse {
 		0% {
 			width: 50px;
