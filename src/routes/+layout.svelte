@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Nav from '$lib/components/navigation/Nav.svelte';
+
 	import Footer from '$lib/components/navigation/Footer.svelte';
 
 	import { onMount } from 'svelte';
